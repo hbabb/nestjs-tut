@@ -14,6 +14,7 @@
     "json"
   ],
   "cSpell.words": [
+    "autoincrement",
     "Babb",
     "Bauch",
     "Chelsey",
@@ -22,6 +23,8 @@
     "Lebsack",
     "nodenext",
     "pids",
-    "primsa"
+    "pkey",
+    "primsa",
+    "UNPOOLED"
   ]
 }
